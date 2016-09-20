@@ -1,1 +1,3 @@
-var hello = "hello"; 
+var hello = "hello";
+
+console.log(hello,"Erik");
